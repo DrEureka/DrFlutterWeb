@@ -16,8 +16,8 @@
 https://drflutter.github.io/
 
 ## :green_book: Tecnologias utilizadas
--Flutter
--Dart
+- `Flutter`
+- `Dart`
 
 ## :memo: Programador/programmer
 :v: Daniel Ramadan
