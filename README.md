@@ -13,7 +13,7 @@
 
 
 ## 📁 Acceso al proyecto
-https://drflutter.github.io/
+https://codoacododr.000webhostapp.com/#/
 
 ## :green_book: Tecnologias utilizadas
 - `Flutter`
